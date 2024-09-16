@@ -59,3 +59,9 @@ The best model was the OneVsRestClassifier Algorithm using a logistic rogression
 
 *   **Next Step 3:** Other platforms.  We could use the same ideas from this analysis and apply it to text from other forms of social media and see if there are other platforms where different types of feedback are expressed disproportionally than others so companies can focus their resources on those platforms. 
 
+### **Project Structure**
+|-- .gitignore
+|-- README.md
+|-- data.csv
+|-- notebook.ipynb
+|-- presentation.pdf
